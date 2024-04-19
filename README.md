@@ -1,4 +1,5 @@
 # I'm Mathew
 
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=mathew131"/>
-<<img alt="top langs" align="left" width="47"" src="https://github-readme-stats.vercel.app/api/top-lens/?username=mathew131&layout=compact"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathew131&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathew131)](https://github.com/mathew131/github-readme-stats)
